@@ -6,4 +6,6 @@ There are a lot of pages in this notes and some is explained in further detail i
 
 If there is any issues or you want to add more information, pls tell me through the inbox or you can edit it yourself and put it in (I am not very sure if you can for the second method) 
 
+Some tables has a link below it. The link is: https://docs.google.com/spreadsheets/d/1F5JyhCL4O-4dZp3Gh8x3GYTxX_BgNUKMzyOiwLGGrXg/edit?usp=sharing 
+
 Thank you!
